@@ -51,7 +51,7 @@ function WhyChoose() {
           <img
             src="https://images.unsplash.com/photo-1600585152220-90363fe7e115?q=80&w=1000&auto=format&fit=crop"
             alt="Furniture work"
-            className="rounded-2xl shadow-xl"
+            className="rounded-2xl shadow-xl h-auto w-full object-cover"
           />
         </motion.div>
 
