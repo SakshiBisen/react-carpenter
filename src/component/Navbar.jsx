@@ -10,7 +10,7 @@ const Navbar = () => {
     <>
       {/* NAVBAR */}
       <nav className="bg-white shadow-md fixed w-full z-50">
-        <div className="max-w-7xl mx-auto flex justify-between items-center px-6 py-4">
+        <div className="max-w-7xl mx-auto flex justify-between items-center px-3 py-4">
 
           {/* Logo */}
           <h1 className="text-lg sm:text-2xl font-bold text-[#6B4226]">
