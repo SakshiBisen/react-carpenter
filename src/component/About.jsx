@@ -16,9 +16,9 @@ function About() {
           <img
             src="https://images.unsplash.com/photo-1581578731548-c64695cc6952?q=80&w=1200&auto=format&fit=crop"
             alt="Carpenter working"
-            className="rounded-2xl shadow-2xl"
+            className="rounded-2xl shadow-2xl h-auto w-full object-cover"
           />
-
+  
           {/* Brown Accent Box */}
           <div className="absolute -bottom-6 -right-6 bg-primary w-32 h-32 rounded-2xl -z-10"></div>
         </div>
