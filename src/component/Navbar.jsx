@@ -14,7 +14,7 @@ const Navbar = () => {
 
           {/* Logo */}
           <h1 className="text-lg sm:text-2xl font-bold text-[#6B4226]">
-            🪵 Shri Naganaraya Furniture
+            🪵 Shri Naganaraya Furniture 
           </h1>
 
           {/* Desktop Menu */}
