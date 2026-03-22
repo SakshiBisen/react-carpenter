@@ -3,7 +3,7 @@
 function About() {
   return (
     <section id="about" className="py-24 bg-background">
-      <div className="max-w-7xl mx-auto grid md:grid-cols-2 gap-16 px-4 tems-center">
+      <div className="max-w-7xl mx-auto grid md:grid-cols-2 gap-16 px-7 tems-center">
 
         {/* Image Side */}
         <div
