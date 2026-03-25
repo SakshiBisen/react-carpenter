@@ -1,13 +1,13 @@
 function Hero() {
   return (
     <section
-      className="h-screen bg-cover bg-center relative flex items-center overflow-hidden"
+      className="h-screen bg-cover bg-center relative flex items-center justify-center"
       style={{
         backgroundImage: `url("https://images.unsplash.com/photo-1503387762-592deb58ef4e?q=80&w=1920&auto=format&fit=crop")`
       }}
     >
       {/* Overlay */}
-      <div className="absolute inset-0 bg-black/50"></div>
+      <div className=" absolute inset-0 bg-black/50"></div>
 
       {/* Content */}
       <div className="relative z-10 max-w-4xl mx-auto text-center text-white px-6">
