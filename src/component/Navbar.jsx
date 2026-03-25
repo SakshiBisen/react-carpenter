@@ -10,10 +10,10 @@ const Navbar = () => {
     <>
       {/* NAVBAR */}
       <nav  className="bg-white shadow-md fixed  w-full z-50 overflow-x-hidden">
-        <div className="max-w-7xl w-full mx-auto flex justify-between items-center px-10 py-3">
+        <div className="max-w-7xl w-full mx-auto flex justify-between items-center px-12 py-3">
 
           {/* Logo */}
-          <h1 className="text-lg sm:text-2xl font-bold text-[#6B4226]">
+          <h1 className="text-sm sm:text-2xl font-bold text-[#6B4226]">
             🪵 Shri Naganaraya Furniture 
           </h1>
 
