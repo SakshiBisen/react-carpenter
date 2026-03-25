@@ -9,8 +9,8 @@ const Navbar = () => {
   return (
     <>
       {/* NAVBAR */}
-      <nav className="bg-white shadow-md fixed w-full z-50">
-        <div className="max-w-7xl mx-auto flex justify-between items-center px-3 py-4">
+      <nav  className="bg-white shadow-md fixed top-0 left-0 w-full z-50 overflow-x-hidden">
+        <div className="max-w-7xl w-full mx-auto flex justify-between items-center px-4 py-4">
 
           {/* Logo */}
           <h1 className="text-lg sm:text-2xl font-bold text-[#6B4226]">
@@ -58,7 +58,7 @@ const Navbar = () => {
 <a
   href="tel:+916376075132"
   className="
-  fixed bottom-4 right-4 
+fixed bottom-4 right-4 max-w-[90vw]
   bg-[#6B4226] 
   text-white px-4 py-2 rounded-full shadow-lg 
   hover:scale-110 transition z-50 flex items-center gap-2"

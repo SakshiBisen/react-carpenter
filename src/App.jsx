@@ -15,7 +15,10 @@ import Footer from "./component/Footer.jsx";
 function App() {
   return (
     <>
-      <Navbar />
+     <div className="overflow-x-hidden">
+  <Navbar />
+  {/* rest of site */}
+</div>
       <Hero />
       <About />
       <Services />
